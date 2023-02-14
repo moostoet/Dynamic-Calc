@@ -356,7 +356,7 @@ var GSC = (0, util_1.extend)(true, {}, RBY, {
     Rock: { Dark: 1, Steel: 0.5 },
     Fighting: { Dark: 2, Steel: 2 },
     Psychic: { Dark: 0, Steel: 0.5 },
-    Ghost: { Psychic: 2, Dark: 0.5, Steel: 0.5 },
+    Ghost: { Psychic: 2, Dark: 0.5, Steel: 1 },
     Dragon: { Dark: 1, Steel: 0.5 },
     Dark: {
         '???': 1,
@@ -376,7 +376,7 @@ var GSC = (0, util_1.extend)(true, {}, RBY, {
         Ghost: 2,
         Dragon: 1,
         Dark: 0.5,
-        Steel: 0.5
+        Steel: 1,
     },
     Steel: {
         '???': 1,
